@@ -1,0 +1,14 @@
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\bin\Debug\PokemonApi.exe.config
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\bin\Debug\PokemonApi.exe
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\bin\Debug\PokemonApi.pdb
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\obj\Debug\PokemonApi.csproj.AssemblyReference.cache
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\obj\Debug\PokemonApi.Form1.resources
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\obj\Debug\PokemonApi.PokeVista.resources
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\obj\Debug\PokemonApi.Properties.Resources.resources
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\obj\Debug\PokemonApi.csproj.GenerateResource.cache
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\obj\Debug\PokemonApi.csproj.CoreCompileInputs.cache
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\obj\Debug\PokemonApi.csproj.Up2Date
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\obj\Debug\PokemonApi.exe
+C:\Users\Vilberto\Documents\Visual Studio Code\PokemonApi\PokemonApi\obj\Debug\PokemonApi.pdb
